@@ -1,0 +1,2 @@
+- A general platform for both recruiter and job seeker one stop solution with increased efficiency and personalized view
+- React.js, Tailwind CSS, Express Js., MongoDB
