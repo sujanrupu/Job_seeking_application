@@ -1,5 +1,7 @@
 # Job Application Management
 
+## Demo Video: https://www.youtube.com/watch?v=W31boojQVP4
+
 ## Overview
 
 This project aims to create a comprehensive platform that serves as a one-stop solution for both job seekers and recruiters. By leveraging modern web technologies and personalized views, the platform enhances efficiency in the job search and hiring process.
